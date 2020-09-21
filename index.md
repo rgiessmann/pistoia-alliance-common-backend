@@ -22,4 +22,13 @@ During the LotF community call in September 2020, we conducted a live poll with 
 7. Do you think the proposed technology stack is a good choice?
 8. I am interested in working on this together with others.
 
-The results are below:
+The results are here in the form of screenshots:
+
+![](./q1.png)
+![](./q2.png)
+![](./q3.png)
+![](./q4.png)
+![](./q5.png)
+![](./q6.png)
+![](./q7.png)
+![](./q8.png)
